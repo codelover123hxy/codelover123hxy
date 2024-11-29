@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in AI and LLM.
 - 🌱 I’m skilled in front-end and back-end development.
 - 💞️ I’m looking to collaborate on Artificial Intelligence.
+- 个人博客：https://blog.aiyin.club
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Devin100086&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=codelover123hxy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelover123hxy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
