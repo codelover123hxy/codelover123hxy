@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 个人博客：https://blog.aiyin.club
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=codelover123hxy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelover123hxy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelover123hxy&layout=pie" />
