@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @hanxiaoyang
+- 👀 I’m interested in AI and LLM.
+- 🌱 I’m skilled in front-end and back-end development.
+- 💞️ I’m looking to collaborate on Artificial Intelligence.
